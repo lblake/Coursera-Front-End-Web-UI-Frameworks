@@ -1,6 +1,6 @@
 # Coursera-Front-End-Web-UI-Frameworks
 
-I am taking the first part of the https://www.coursera.org/specializations/full-stack-react? course
+I am taking the first part of the https://www.coursera.org/specializations/full-stack-react course
 
 I intend to complete all four modules which are:
 
