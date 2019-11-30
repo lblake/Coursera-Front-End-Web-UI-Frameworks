@@ -1,5 +1,4 @@
 # Coursera-Front-End-Web-UI-Frameworks
-Coursera  Front-End Web UI Frameworks and Tools: Bootstrap 4 Course
 
 I am taking the first part of the https://www.coursera.org/specializations/full-stack-react? course
 
